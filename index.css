@@ -87,6 +87,7 @@ body{
     padding: 20px;
     color: rgb(219, 6, 6);
     box-shadow: 5px 5px purple;
+    z-index: 1;
 }
 span{
     float: right;
